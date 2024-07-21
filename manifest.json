@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Replaces armor textures with prettier and less obtrusive versions.",
+      "name": "Stylish Armor",
+      "uuid": "c984cd38-1bb5-46a6-8bef-ddecd66e107d",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "Replaces armor textures with prettier and less obtrusive versions.",
+        "type": "resources",
+        "uuid": "8822c0e0-5549-46a0-a924-496c9c6feb0a",
+        "version": [1, 0, 0]
+      }
+    ]
+   }
